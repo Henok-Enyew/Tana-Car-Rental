@@ -1,0 +1,294 @@
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Zemaw
+Middle Name of customer: Demsew
+Sex: M
+Phone-number: 0977118827
+Customer's driver license number: 12222
+Type of car rented: BUGGATT
+Car number plate: 21111
+Price of rented Car: 10000
+Start and end date of rented car: 1/1/1-2/2/2
+Customer age: 21
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Guna
+Middle Name of customer: Marefia
+Sex: F
+Phone-number: 0912204842
+Customer's driver license number: 22221
+Type of car rented: Rolls-Royce
+Car number plate: 33333
+Price of rented Car: 99999
+Start and end date of rented car: 2/2/2-3/3/3
+Customer age: 40
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Zenebu
+Middle Name of customer: Masresha
+Sex: M
+Phone-number: 0912345566
+Customer's driver license number: 22221
+Type of car rented: Lamborghini
+Car number plate: 33333
+Price of rented Car: 888888
+Start and end date of rented car: 3/3/3-4/4/4
+Customer age: 53
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: John
+Middle Name of customer: Doe
+Sex: M
+Phone-number: 0912345678
+Customer's driver license number: 11111
+Type of car rented: Ford
+Car number plate: 44444
+Price of rented Car: 50000
+Start and end date of rented car: 5/5/5-6/6/6
+Customer age: 30
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Jane
+Middle Name of customer: Smith
+Sex: F
+Phone-number: 0923456789
+Customer's driver license number: 55555
+Type of car rented: Mercedes-Benz
+Car number plate: 66666
+Price of rented Car: 75000
+Start and end date of rented car: 7/7/7-8/8/8
+Customer age: 42
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Michael
+Middle Name of customer: Johnson
+Sex: M
+Phone-number: 0934567890
+Customer's driver license number: 77777
+Type of car rented: BMW
+Car number plate: 88888
+Price of rented Car: 60000
+Start and end date of rented car: 9/9/9-10/10/10
+Customer age: 35
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Sarah
+Middle Name of customer: Davis
+Sex: F
+Phone-number: 0945678901
+Customer's driver license number: 99999
+Type of car rented: Audi
+Car number plate: 11111
+Price of rented Car: 90000
+Start and end date of rented car: 11/11/11-12/12/12
+Customer age: 27
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: David
+Middle Name of customer: Thompson
+Sex: M
+Phone-number: 0956789012
+Customer's driver license number: 22222
+Type of car rented: Tesla
+Car number plate: 22222
+Price of rented Car: 85000
+Start and end date of rented car: 13/13/13-14/14/14
+Customer age: 39
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Emily
+Middle Name of customer: Wilson
+Sex: F
+Phone-number: 0967890123
+Customer's driver license number: 44444
+Type of car rented: Jaguar
+Car number plate: 33333
+Price of rented Car: 95000
+Start and end date of rented car: 15/15/15-16/16/16
+Customer age: 45
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: James
+Middle Name of customer: Anderson
+Sex: M
+Phone-number: 0987901234
+Customer's driver license number: 66666
+Type of car rented: Porsche
+Car number plate: 44444
+Price of rented Car: 80000
+Start and end date of rented car: 17/17/17-18/18/18
+Customer age: 50
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Emma
+Middle Name of customer: Martinez
+Sex: F
+Phone-number: 0999012345
+Customer's driver license number: 88888
+Type of car rented: Chevrolet
+Car number plate: 55555
+Price of rented Car: 65000
+Start and end date of rented car: 19/19/19-20/20/20
+Customer age: 33
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Andrew
+Middle Name of customer: Brown
+Sex: M
+Phone-number: 0901234567
+Customer's driver license number: 10101
+Type of car rented: Bentley
+Car number plate: 66666
+Price of rented Car: 70000
+Start and end date of rented car: 21/21/21-22/22/22
+Customer age: 37
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Olivia
+Middle Name of customer: Taylor
+Sex: F
+Phone-number: 0912345678
+Customer's driver license number: 12121
+Type of car rented: Volkswagen
+Car number plate: 77777
+Price of rented Car: 55000
+Start and end date of rented car: 23/23/23-24/24/24
+Customer age: 29
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Benjamin
+Middle Name of customer: Harris
+Sex: M
+Phone-number: 0923456789
+Customer's driver license number: 14141
+Type of car rented: Hyundai
+Car number plate: 88888
+Price of rented Car: 45000
+Start and end date of rented car: 25/25/25-26/26/26
+Customer age: 31
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Mia
+Middle Name of customer: Clark
+Sex: F
+Phone-number: 0934567890
+Customer's driver license number: 16161
+Type of car rented: Toyota
+Car number plate: 99999
+Price of rented Car: 40000
+Start and end date of rented car: 27/27/27-28/28/28
+Customer age: 26
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Ethan
+Middle Name of customer: Lewis
+Sex: M
+Phone-number: 0945678901
+Customer's driver license number: 18181
+Type of car rented: Honda
+Car number plate: 11111
+Price of rented Car: 35000
+Start and end date of rented car: 29/29/29-30/30/30
+Customer age: 24
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Ava
+Middle Name of customer: Turner
+Sex: F
+Phone-number: 0956789012
+Customer's driver license number: 20202
+Type of car rented: Mazda
+Car number plate: 22222
+Price of rented Car: 300003
+Start and end date of rented car: 1/31/31-32/32/32
+Customer age: 23
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Alexander
+Middle Name of customer: White
+Sex: M
+Phone-number: 0967890123
+Customer's driver license number: 22222
+Type of car rented: Subaru
+Car number plate: 33333
+Price of rented Car: 25000
+Start and end date of rented car: 33/33/33-34/34/34
+Customer age: 28
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Sophia
+Middle Name of customer: Martin
+Sex: F
+Phone-number: 0978901234
+Customer's driver license number: 24242
+Type of car rented: Nissan
+Car number plate: 44444
+Price of rented Car: 20000
+Start and end date of rented car: 35/35/35-36/36/36
+Customer age: 32
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: Chloe
+Middle Name of customer: Thompson
+Sex: F
+Phone-number: 0989012345
+Customer's driver license number: 26262
+Type of car rented: Kia
+Car number plate: 55555
+Price of rented Car: 15000
+Start and end date of rented car: 37/37/37-38/38/38
+Customer age: 27
+
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+First Name of customer: sadhf
+Middle Name of customer: sdkf
+Sex: m
+Phone-number: 23
+Customer's driver license number: 23
+Type of car rented: 3
+Car number plate: 3
+Price of rented Car: 3
+Start and end date of rented car: 3
+Customer age: 3
+
+------------------------------------------------------------------------------------------------------
